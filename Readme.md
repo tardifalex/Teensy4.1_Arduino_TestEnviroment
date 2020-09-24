@@ -4,8 +4,10 @@ This program is the property of AIS and is the codebase for the vehicles microco
 
 ## Getting Started
 
+
 1. VS Code is used for pin/chip configuration and code is generated for Arduino dev environment
 2. VS code is used for software development
+
 
 ### Folder Structure
 
