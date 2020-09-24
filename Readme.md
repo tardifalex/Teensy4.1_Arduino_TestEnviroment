@@ -4,7 +4,7 @@ This program is the property of AIS and is the codebase for the vehicles microco
 
 ## Getting Started
 
-1. Cube MX is used for pin/chip configuration and code is generated for Keil dev environment
+1. Cube MX Cube MX Cube MX Cube MX is used for pin/chip configuration and code is generated for Keil dev environment
 2. Keil is used for software development
 
 ### Folder Structure
